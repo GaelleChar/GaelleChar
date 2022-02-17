@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gaelle Charlet
 - 👀 I’m interested in Game and Web Design!
-- 🌱 I’m currently learning C#, React, and Blender
+- 🌱 I’m currently learning C++, React, and Blender
 - 💞️ I’m looking to collaborate!
 - 📫 How to reach me email: charlet.gaelle1@gmail.com
 
