@@ -3,7 +3,6 @@
 I work in design and development, <br/>
 I love problem solving with programming, but I love designing better experiences too! <br/>
 I’m interested in Data Science, Game and Web Design! <br/>
- <br/>
 - 🐇 I work with Java, C#, HTML/CSS/JS <br/>
 - 🌱 I’m learning Machine learning with Python, Database with mySQL, APIs with Javascript! <br/>
 - 💞️ Things I do in my free time: Blender3D, drawing, watching anime <3 <br/>
