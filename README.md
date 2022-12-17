@@ -1,7 +1,7 @@
 <h1> Hey y'all, I’m Gaelle! 🧑🏾‍💻 </h1>
 <img src="https://media.baamboozle.com/uploads/images/1006/1630619695_555518_gif-url.gif" width="80" height="80" />
 I'm a design technologist, <br/>
-I love problem solving with programming, but I love designing better experiences too <br/>
+I love problem solving with programming and I love designing better experiences <br/>
 I’m interested in Data, Game and Web Design <br/>
 - 🐇 I work with Java, C#, HTML/CSS/JS <br/>
 - 🌱 I’m learning Machine learning with Python, Database with mySQL, APIs with Javascript <br/>
