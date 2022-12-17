@@ -3,11 +3,14 @@
 I'm a design technologist, <br/>
 I love problem solving with programming and I love designing better experiences <br/>
 I’m interested in Data, Game and Web Design <br/>
-- 🐇 I work with Java, C#, HTML/CSS/JS <br/>
+- 🐇 I work with Java/Python, C#, HTML/CSS/JS, PHP/MySQL  <br/>
 - 🌱 I’m learning Machine learning with Python, Database with mySQL, APIs with Javascript <br/>
 - 💞️ Things I do in my free time: Blender3D, drawing, watching anime <3 <br/>
 - 👀 Check out my portfolio if you have time <br/>
 - 🫂 Contact me and lets collaborate!^
+
+Some classwork: https://www.notion.so/The-Calm-before-the-storm-fad03f69688b490c938ce429255b1faa
+
 <img src="https://d14eu5yur8w3te.cloudfront.net/api/v1/media/baseclub-media-uploads-production/8bbddc9b-ca75-475a-99e5-4534d89bf6cb.gif"  width="80" height="80" />
 
 <!---
