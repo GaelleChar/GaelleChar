@@ -1,5 +1,4 @@
 
-
 // @ts-check
 import { Card } from "../common/Card.js";
 import { createProgressNode } from "../common/createProgressNode.js";
