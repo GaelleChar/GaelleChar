@@ -13,8 +13,6 @@ Some classwork: https://www.notion.so/The-Calm-before-the-storm-fad03f69688b490c
 
 <img src="https://i.redd.it/a2m0j6fav6b81.gif"  width="80" height="80" />
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
@@ -24,7 +22,7 @@ Some classwork: https://www.notion.so/The-Calm-before-the-storm-fad03f69688b490c
 </p>
 
 ![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=midnight-purple&show_icons=true)
-[![Gaelle](https://github-readme-stats.vercel.app/api?username=GaelleChar&theme=rose&show_icons=true&hide=contribs,prs)]
+![Gaelle](https://github-readme-stats.vercel.app/api?username=GaelleChar&theme=rose&show_icons=true&hide=contribs,prs)
 
 
 <!---
