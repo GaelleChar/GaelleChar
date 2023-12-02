@@ -24,7 +24,7 @@ Some classwork: https://www.notion.so/The-Calm-before-the-storm-fad03f69688b490c
 </p>
 
 ![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=midnight-purple&show_icons=true)
-![Stats](https://github-readme-stats.vercel.app/api/stats/?username=anuraghazra&theme=rose&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api/stat/?username=anuraghazra&theme=rose&show_icons=true)
 
 
 <!---
