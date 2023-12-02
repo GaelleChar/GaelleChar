@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
 // @ts-check
 import { Card } from "../common/Card.js";
 import { createProgressNode } from "../common/createProgressNode.js";
