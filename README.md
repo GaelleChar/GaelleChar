@@ -11,7 +11,7 @@ I’m interested in Data, Game and Web Design <br/>
 
 Some classwork: https://www.notion.so/The-Calm-before-the-storm-fad03f69688b490c938ce429255b1faa
 
-<img src="https://d14eu5yur8w3te.cloudfront.net/api/v1/media/baseclub-media-uploads-production/8bbddc9b-ca75-475a-99e5-4534d89bf6cb.gif"  width="80" height="80" />
+<img src="[https://d14eu5yur8w3te.cloudfront.net/api/v1/media/baseclub-media-uploads-production/8bbddc9b-ca75-475a-99e5-4534d89bf6cb.gif](https://i.redd.it/a2m0j6fav6b81.gif)"  width="80" height="80" />
 
 <!---
 hmm what you searching for in here 👀
