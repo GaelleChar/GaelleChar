@@ -13,6 +13,8 @@ Some classwork: https://www.notion.so/The-Calm-before-the-storm-fad03f69688b490c
 
 <img src="https://i.redd.it/a2m0j6fav6b81.gif"  width="80" height="80" />
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 <!---
 hmm what you searching for in here 👀
 --->
