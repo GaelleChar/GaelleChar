@@ -13,6 +13,7 @@ Some classwork: https://www.notion.so/The-Calm-before-the-storm-fad03f69688b490c
 
 <img src="https://i.redd.it/a2m0j6fav6b81.gif"  width="80" height="80" />
 
+<!---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
@@ -25,6 +26,6 @@ Some classwork: https://www.notion.so/The-Calm-before-the-storm-fad03f69688b490c
 ![Gaelle](https://github-readme-stats.vercel.app/api?username=GaelleChar&theme=rose&show_icons=true&hide=contribs,prs)
 
 
-<!---
+
 hmm what you searching for in here 👀
 --->
